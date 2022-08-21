@@ -27,9 +27,11 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": ["C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/node_modules/bootstrap/dist/js/bootstrap.js"
+          ]
           },
           "configurations": {
             "production": {
