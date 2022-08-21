@@ -28,9 +28,9 @@
             ],
             "styles": [
               "src/styles.css",
-              "C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/node_modules/bootstrap/dist/css/bootstrap.css"
+              "C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/FrontEnd/node_modules/bootstrap/dist/css/bootstrap.css"
             ],
-            "scripts": ["C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/node_modules/bootstrap/dist/js/bootstrap.js"
+            "scripts": ["C:/Argentina Programa/Proyecto Final/ProyectoIntegrador_NievasDavid/ProyectoIntegrador_NievasDavid/FrontEnd/node_modules/bootstrap/dist/js/bootstrap.js"
           ]
           },
           "configurations": {
