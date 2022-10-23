@@ -26,7 +26,7 @@ errMsj!: string;
     if(this.tokenService.getToken()){
       this.isLogged = true;
       this.isLogginFail = false;
-      this.roles = this.tokenService.getAuthoriteis();
+      this.roles = this.tokenService.getAuthorities();
     }
   }
 
